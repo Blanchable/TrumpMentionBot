@@ -1,0 +1,4 @@
+APP_NAME = "Trump Mentions Engine"
+APP_ORG = "LocalResearch"
+DEFAULT_WINDOW_WIDTH = 1400
+DEFAULT_WINDOW_HEIGHT = 900
